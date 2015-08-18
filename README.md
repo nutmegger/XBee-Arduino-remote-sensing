@@ -3,6 +3,7 @@ Description of project:
 
 Read temperature and humidity settings from remote sensors.  Transmit the readings to a central base.  Central base will POST the readings to a PHP form on web server where they are stored in a database table.  Web page fetches the readings and displays them in a charts using Angular and D3.js
 <br>
+<br>
 Remote sensors: DHT22 sensor, Arduino UNO and XBee Series 2 module.  
 <br>
 <br>
